@@ -1,0 +1,16 @@
+C:\Users\Gecata\source\repos\FindPeaks\FindPeaks\bin\Debug\net5.0\FindPeaks.exe
+C:\Users\Gecata\source\repos\FindPeaks\FindPeaks\bin\Debug\net5.0\FindPeaks.deps.json
+C:\Users\Gecata\source\repos\FindPeaks\FindPeaks\bin\Debug\net5.0\FindPeaks.runtimeconfig.json
+C:\Users\Gecata\source\repos\FindPeaks\FindPeaks\bin\Debug\net5.0\FindPeaks.runtimeconfig.dev.json
+C:\Users\Gecata\source\repos\FindPeaks\FindPeaks\bin\Debug\net5.0\FindPeaks.dll
+C:\Users\Gecata\source\repos\FindPeaks\FindPeaks\bin\Debug\net5.0\ref\FindPeaks.dll
+C:\Users\Gecata\source\repos\FindPeaks\FindPeaks\bin\Debug\net5.0\FindPeaks.pdb
+C:\Users\Gecata\source\repos\FindPeaks\FindPeaks\obj\Debug\net5.0\FindPeaks.csprojAssemblyReference.cache
+C:\Users\Gecata\source\repos\FindPeaks\FindPeaks\obj\Debug\net5.0\FindPeaks.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gecata\source\repos\FindPeaks\FindPeaks\obj\Debug\net5.0\FindPeaks.AssemblyInfoInputs.cache
+C:\Users\Gecata\source\repos\FindPeaks\FindPeaks\obj\Debug\net5.0\FindPeaks.AssemblyInfo.cs
+C:\Users\Gecata\source\repos\FindPeaks\FindPeaks\obj\Debug\net5.0\FindPeaks.csproj.CoreCompileInputs.cache
+C:\Users\Gecata\source\repos\FindPeaks\FindPeaks\obj\Debug\net5.0\FindPeaks.dll
+C:\Users\Gecata\source\repos\FindPeaks\FindPeaks\obj\Debug\net5.0\ref\FindPeaks.dll
+C:\Users\Gecata\source\repos\FindPeaks\FindPeaks\obj\Debug\net5.0\FindPeaks.pdb
+C:\Users\Gecata\source\repos\FindPeaks\FindPeaks\obj\Debug\net5.0\FindPeaks.genruntimeconfig.cache
